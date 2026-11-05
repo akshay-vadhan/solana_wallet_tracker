@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Solana Wallet Tracker
 
 A Python-based Solana monitoring and Telegram notification toolkit.
